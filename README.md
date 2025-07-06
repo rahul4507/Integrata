@@ -87,15 +87,5 @@ REDIS_URL=redis://localhost:6379
 
 ---
 
-## 🤝 Contributing
-Contributions are welcome! Please open an issue or pull request to discuss improvements or new features.
-
----
-
-## 📄 License
-[MIT](LICENSE)
-
----
-
 ## 📬 Contact
 For questions or support, contact [rahulhiragond04@gmail.com]. 
